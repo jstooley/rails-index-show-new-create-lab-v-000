@@ -7,5 +7,7 @@ class CouponController < ApplicationController
   end
   def new
   end
+  def create
+  end
 
 end
