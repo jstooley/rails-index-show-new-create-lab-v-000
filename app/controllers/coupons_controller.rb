@@ -1,6 +1,9 @@
-class CouponController < ApplicationController 
+class CouponController < ApplicationController
 
-  def index 
+  def index
+  end
+
+  def show
   end
 
 end
